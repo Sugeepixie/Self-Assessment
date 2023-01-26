@@ -12,6 +12,8 @@
 * Above all, the guidance we recieved from chief instructor, TAs, Tutors, and Ask BCS  through out the 24 weeks  played a key role in the success of my course completion.
 
 
-### Summary of Project
+## Summary of Project
 
 The project analyzes the features of mushrooms to determine if they are edible or poisonous. Technologies used for this project are Jupyter Notebook, Python, Pandas, Tableau. Machine Learning Model was created using Random Forest Classifier which we thought was the best to analyze categorical data. Then the model was trained using test_train_split function. The next step was to make Predictions and validate the model. Based on our analysis, the accuracy score recieved was 100% which implies that our features are best predictors of our classes(edible or poisonous).
+
+![web-design-thank-you-flowers1500-web](https://user-images.githubusercontent.com/76926148/214747562-d65fc3a4-9ca4-43c9-8ea8-840b2cf03fa4.jpg)
